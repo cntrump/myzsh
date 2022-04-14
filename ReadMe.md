@@ -8,6 +8,8 @@ Features:
 - Prompt
 - Syntax highlighting
 
+![](snapshot.png)
+
 ## How to use
 
 ```bash
